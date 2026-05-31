@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcncrypt",
+        "uuid": 21030360,
+        "checksum": "xakgno"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "production"
+    }
+}
